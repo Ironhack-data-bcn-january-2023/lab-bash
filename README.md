@@ -111,3 +111,4 @@ README.md lorem solutions.ipynb
 * Unzip the file lorem-compressed.tar.gz into the folder lorem-uncompressed
 
 * Create a bash script to print the numbers from 1 to 100.
+dummy commit
